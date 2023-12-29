@@ -6,3 +6,5 @@
 Data Analysis from Python and a GM-10 Device in Mountain View, CA
 Thanks to Keith E. Fleming for loaning me the GM-10
 
+TL:DR - In my case, indeed it was!
+
